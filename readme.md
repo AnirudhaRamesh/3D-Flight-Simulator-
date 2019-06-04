@@ -1,5 +1,5 @@
-Flight Simulator 
-------------------
+# Flight Simulator 
+---
 
 This is a basic 3D fighter simulator made in C++ using OpenGL.
 
