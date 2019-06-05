@@ -53,4 +53,6 @@ k - barrel Roll
 4 - Tower View 
 5 - Helicopter View 
 
+![Game Preview](StartScene.png)
+
 
